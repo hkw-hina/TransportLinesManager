@@ -4,3 +4,5 @@ obj
 .vs
 /TransportLinesManager.csproj.user
 /packages
+/TLM2WE/bin/
+/TLM2WE/obj/
